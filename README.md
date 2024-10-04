@@ -1,7 +1,9 @@
 
-# Auto Clicker
+# Auto Clicker 
 
-A simple auto-clicker script with a GUI, allowing you to start and stop clicking at set intervals.
+A simple auto-clicker script with a GUI, allowing you to start and stop clicking at set intervals. Works on Windows, Mac, and Linux. 
+
+<img src="screenshot.png" alt="Screenshot of the Auto Clicker" width="250" height="200">
 
 ## Getting Started
 
